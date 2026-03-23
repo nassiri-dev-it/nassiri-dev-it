@@ -16,7 +16,7 @@ Passionné par l'informatique, les réseaux et le développement de solutions bu
 * **Design :** Adobe Illustrator (Graphic design pour le Print-on-Demand).
 
 ### 📈 Statistiques GitHub
-![Stats de [Yassine]](https://github-readme-stats.vercel.app/api?username=[TON_NOM_UTILISATEUR]&show_icons=true&theme=radical)
+![Stats de [Yassine]](https://github-readme-stats.vercel.app/api?username=nassiri-dev-it&show_icons=true&theme=radical)
 
 ---
 
