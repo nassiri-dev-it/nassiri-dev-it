@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est [Yassine] !
+# 👋 Salut, moi c'est Yassine !
 
 ### 👨‍💻 Futur Technicien Spécialisé en Infrastructures Digitales (TSID 2026)
 Passionné par l'informatique, les réseaux et le développement de solutions business intelligentes.
@@ -22,6 +22,6 @@ Passionné par l'informatique, les réseaux et le développement de solutions bu
 
 ### 📫 Me contacter
 * **Localisation :** Casablanca, Maroc.
-* **Site Web :** [https://pod-artisan-dashboard.streamlit.app/#artisan-pod-suite-connexion]
+* **Site Web :** https://pod-artisan-dashboard.streamlit.app/#artisan-pod-suite-connexion
 
 *"Transformer l'infrastructure technique en opportunité business."*
